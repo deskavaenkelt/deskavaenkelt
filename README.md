@@ -21,7 +21,7 @@
 [![Docker](https://img.shields.io/badge/-Docker-gray?style=flat&logo=docker)](https://github.com/deskavaenkelt) 
 
 ### 👀 Active Repo
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=deskavaenkelt&repo=EcUtbildningDevOps)](https://github.com/deskavaenkelt/EcUtbildningDevOpsh)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=deskavaenkelt&repo=EcUtbildningDevOps)](https://github.com/deskavaenkelt/EcUtbildningDevOps)
 
 ### 🏆 Github Status
 ![My Github Status](https://github-readme-stats.vercel.app/api?username=deskavaenkelt&show_icons=true&hide_border=true)
