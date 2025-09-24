@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently studying DevOps 2020-2022
+- 🌱 I’m currently working as programing Educator.
 
 ### ⚡ Technologies
   - Front-end development using **HTML, CSS, Javascript, Angular, React**
