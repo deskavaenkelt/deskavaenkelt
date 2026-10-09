@@ -15,8 +15,8 @@ My current focus is reliable, secure and cost-controlled LLM systems.
 Much of my work lives in self-hosted GitLab and private repositories.
 
 [LinkedIn](https://linkedin.com/in/larsstromberg) ·
-[DSVE](https://www.dsve.se) ·
-[Email](mailto:stromberg.lars@gmail.com)
+[DSVE](https://www.dsve.se)
+
 ### 🏆 Github Status
 ![My Github Status](https://github-readme-stats.vercel.app/api?username=deskavaenkelt&show_icons=true&hide_border=true)
 
